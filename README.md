@@ -1,2 +1,2 @@
 # git_test
-first GitHub repo yay :)
+my first GitHub repo yay :)
